@@ -229,5 +229,12 @@
     "school": "Academic Workshop",
     "year": 2026,
     "link": "/certificates/Agentes_IA _Pesquisa_Científica.pdf"
+  },
+  {
+    "id": 36,
+    "name": "Participant, XIV Academic Week of Computing, Federal University of São Carlos (UFSCar)",
+    "school": "SECOMP UFSCar",
+    "year": 2026,
+    "link": "/certificates/certificado-xiv-secomp.pdf"
   }
 ]
